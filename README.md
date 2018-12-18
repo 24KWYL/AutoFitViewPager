@@ -1,2 +1,3 @@
 # AutoFitViewPager
 适应嵌套高度测量冲突的ViewPager
+viewpager要预加载全部界面。setOffscreenPageLimit等于tab个数
